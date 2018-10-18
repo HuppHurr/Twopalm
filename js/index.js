@@ -2,11 +2,11 @@ $(function() {
 
     // Initialize Firebase configuration
     var config = {
-        apiKey: "AIzaSyAsFK9oDTtsCdqrHAfQKs8_TmNtBOoIkBY",
-        authDomain: "emma-ea74d.firebaseapp.com",
-        databaseURL: "https://emma-ea74d.firebaseio.com",
-        storageBucket: "emma-ea74d.appspot.com",
-        messagingSenderId: "95300595436"
+        apiKey: "AIzaSyDkDoG4AsgUAFlpD8fiLJM1NiZSyaLGNcY",
+        authDomain: "twopalm-39a27.firebaseapp.com",
+        databaseURL: "https://twopalm-39a27.firebaseio.com",
+        storageBucket: "twopalm-39a27.appspot.com",
+        messagingSenderId: "704112040678"
     };
     firebase.initializeApp(config);
     
